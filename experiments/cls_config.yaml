@@ -1,0 +1,9 @@
+data:
+  processed_dir: "data/processed"
+training:
+  neg_per_scan: 50
+  patch_size: 32
+  batch_size: 8
+  lr: 0.001
+  max_epochs: 20
+  model_dir: "experiments/models/cls"

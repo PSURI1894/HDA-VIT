@@ -1,0 +1,12 @@
+torch>=1.13.0
+monai>=1.1.0
+numpy
+scipy
+SimpleITK
+nibabel
+scikit-image
+pandas
+tqdm
+tensorboard
+matplotlib
+pydicom

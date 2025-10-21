@@ -1,0 +1,6 @@
+[
+  {
+    "image": "data/processed/case_000_img.nii.gz",
+    "label": "data/processed/case_000_label.nii.gz"
+  }
+]
